@@ -1,0 +1,21 @@
+{
+  "title": "Mohamed Elfaleh",
+  "url": "https://mohamedelfaleh.com/",
+  "language": "en",
+  "description": "Software developer, Aspiring entrepreneur, Geek, nerd and everything in between.",
+  "feed": {
+    "subtitle": "I will be sharing my stories and vision towards the futur eof my country and the solutions i aspire to implement nationally and worldwide.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://mohamedelfaleh.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://mohamedelfaleh.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Mohamed Elfaleh",
+    "email": "mohamed@programmers.com",
+    "url": "https://mohamedelfaleh.com/about-me/"
+  }
+}
