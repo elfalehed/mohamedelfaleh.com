@@ -1,26 +1,32 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Code less, Code smart
+description: I'll be sharing with you some tips that are going to help you along the way as a coder 
+date: 2021-12-04
 tags:
-  - another tag
+  - tips
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+You've probably heard this sentence in a slightly different way:
+<i>Study less, study smart! - Marty Lobdell</i> <br />
+The author of this book tried to explain How can you boost your productivity by studying smart and following some steps to reduce the amount of effort and put it into something valuable.
+I am going to do the same thing here but with coding.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+- Know your syntax : 
+Coding is basically knowing the syntax of a programming language add-up to some problem solving skills. But wouldn't it be more efficient and time saving if you found out that you can transform your 30 lines of code into 10 lines? That would be awesome right?
+In order for you to achieve such thing, you need to be more familiar with the language syntax. to highlight the best possible choice that suits your needs. There are many alternatives you can choose from. You just need to dig deeper.
 
-## Section Header
+ 
+ <br />
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+- Think!
+<b><i>Yeah I know!</i></b>
+In my CS class the moment we start looking for a solution to the problem at hand more than 90% of the students dive into coding without taking a minute to actually think. and actions like this will lead you to many bugs and errors.
+The point here is that before leaning your fingers into keyboard and start typing take a minute to think: How can I solve this problem? what am i going to do at first? ..etc
+-- Take a breath. Think, Solve the problem (Algorithm), Implement the solution.
+<br />
+- Code, Fix, Upgrade, Repeat!
+The first piece of code you've written is not your best version. Always try to optimize your code to the ideal version you can possibly get. You're an artist, you have to make sure you give it all for your best work.
+Don't forget to stop at each code-block and think. Review your code as and markup your plan as much as possible. Doing that can reduce a huge amount of time you would've spend on debugging and fixing logical-errors.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+<br />
+I hope you liked this one. It is the first version, I will come back later to optimize it.
